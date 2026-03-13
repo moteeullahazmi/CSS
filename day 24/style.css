@@ -1,0 +1,30 @@
+.parent {
+background-color: aqua;
+height: 1000px;
+position: relative;
+
+}
+
+.first-child{
+background-color: bisque;
+position: relative;
+left: 20px;
+}
+
+.second-child{
+background-color: blueviolet;
+position: absolute;
+top: 10px;
+right: 10px;
+
+}
+
+.third-child{
+background-color: brown;
+position: sticky;
+top: 10px;
+
+.forth-child{
+    background-color: blue;
+}
+}
